@@ -5,3 +5,4 @@ tavily-python
 SpeechRecognition
 pyttsx3
 requests
+pyaudio
