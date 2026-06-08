@@ -195,4 +195,5 @@ To host this assistant on Streamlit Cloud:
 3. **Advanced LLM Classification**: Replace keyword detection with an LLM function-calling schema or zero-shot classifiers to detect real-time searches more accurately.
 4. **Local LLM Offline Fallback**: Implement Ollama integration to run a local model (e.g. Llama3) if the internet connection is lost.
 #   c h a t b o t  
+ #   c h a t b o t  
  
